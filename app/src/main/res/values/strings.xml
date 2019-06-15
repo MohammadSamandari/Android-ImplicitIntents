@@ -7,4 +7,5 @@
     <string name="edittext_share">Share This Text</string>
     <string name="share_text_with">Share This Text With:</string>
     <string name="button_share_button">Share This Text</string>
+    <string name="capture_a_picture">Capture A Picture</string>
 </resources>
